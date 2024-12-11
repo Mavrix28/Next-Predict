@@ -2,7 +2,7 @@
 
 ## Next-Word Prediction
 
-A machine learning project that predicts the next word in a sentence using a trained LSTM (Long Short-Term Memory) model. This project demonstrates the application of natural language processing (NLP) and sequence prediction.
+A machine learning project that predicts the next word in a sentence using a trained LSTM (Long Short-Term Memory) model. This project demonstrates the application of natural language processing (NLP) and sequence prediction...
 
  ## Features
 
